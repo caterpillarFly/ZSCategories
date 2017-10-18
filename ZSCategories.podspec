@@ -10,11 +10,11 @@ Pod::Spec.new do |s|
                    		* Try to keep it short, snappy and to the point.
                    		* Finally, don't worry about the indent, CocoaPods strips it!
                    	DESC
-	s.homepage = "https://github.com/caterpillarFly/NSData-MGExt.git"
+	s.homepage = "https://github.com/caterpillarFly/ZSCategories.git"
 	s.license = { :type => "MIT", :file => "LICENSE" }
 	s.author = { "caterpillarFly" => "zhaoshengxhu@163.com" }
 	s.platform = :ios, "7.0"
-	s.source = { :git => "https://github.com/caterpillarFly/NSData-MGExt.git", :tag => "#{s.version}" }
+	s.source = { :git => "https://github.com/caterpillarFly/ZSCategories.git", :tag => "#{s.version}" }
 	s.requires_arc = true
 
 	s.default_subspec = 'All'
