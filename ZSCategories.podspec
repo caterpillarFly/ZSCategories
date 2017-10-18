@@ -2,13 +2,10 @@ Pod::Spec.new do |s|
 	
 	s.name = "ZSCategories"
 	s.version = "0.0.1"
-	s.summary = "A short description of ZSCategories, collect some common categories"
+	s.summary = "Collect some common categories"
 	s.description = <<-DESC
 						A longer description of ZSCategories in Markdown format.
-						* Think: Why did you write this? What is the focus? What does it do?
-                   		* CocoaPods will be using this to generate tags, and improve search results.
-                   		* Try to keep it short, snappy and to the point.
-                   		* Finally, don't worry about the indent, CocoaPods strips it!
+						Just used to collect common functions in app
                    	DESC
 	s.homepage = "https://github.com/caterpillarFly/ZSCategories.git"
 	s.license = { :type => "MIT", :file => "LICENSE" }
