@@ -1,5 +1,5 @@
 //
-//  NSData+MGExt.h
+//  NSData+ZSExt.h
 //  ZSLifeCircleDemo
 //
 //  Created by zhaosheng on 2017/10/18.
@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSData (MGExt)
+@interface NSData (ZSExt)
 
 + (NSData *)compressImageData:(NSData *)aImageData belowSize:(NSUInteger)aSize;
 

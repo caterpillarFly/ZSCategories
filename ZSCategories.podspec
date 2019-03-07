@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 	
 	s.name = "ZSCategories"
-	s.version = "0.0.1"
+	s.version = "0.0.2"
 	s.summary = "Collect some common categories"
 	s.description = <<-DESC
 						A longer description of ZSCategories in Markdown format.

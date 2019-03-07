@@ -1,15 +1,15 @@
 //
-//  NSData+MGExt.m
+//  NSData+ZSExt.m
 //  ZSLifeCircleDemo
 //
 //  Created by zhaosheng on 2017/10/18.
 //  Copyright © 2017年 zs. All rights reserved.
 //
 
-#import "NSData+MGExt.h"
+#import "NSData+ZSExt.h"
 #import <UIKit/UIKit.h>
 
-@implementation NSData (MGExt)
+@implementation NSData (ZSExt)
 
 + (NSData *)compressImageData:(NSData *)aImageData belowSize:(NSUInteger)aSize
 {
